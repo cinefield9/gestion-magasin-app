@@ -1,1 +1,1 @@
-# gestion-magasin-app
+PROJECT READY
